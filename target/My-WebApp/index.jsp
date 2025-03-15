@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World, My name is Afridi NG!</h2>
+<h2>Hii, My name is Afridi!</h2>
 </body>
 </html>
